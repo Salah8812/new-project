@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿<?php  
+?> 
+<!DOCTYPE html>
 
 <html lang="en" dir="rtl">
 
@@ -47,7 +49,7 @@
                   
   <div class="logo span4">
                         <h1><a href="">iApp Register <span class="red">.</span></a></h1>
- 
+  
  
                  </div>
                     <div class="links span8">
